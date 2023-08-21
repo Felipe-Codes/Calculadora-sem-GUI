@@ -38,6 +38,8 @@ A calculadora possui as seguintes funcionalidades:
 
 ## Exemplos
 
+1. Adição: 1 6
+(Deve responder: 7)
 ## Conclusão
 
 Esta calculadora simples em Python permite realizar cálculos matemáticos básicos de maneira rápida e conveniente. Ela é uma ótima ferramenta para quem precisa executar operações matemáticas sem a necessidade de uma interface gráfica. Sinta-se à vontade para explorar as funcionalidades oferecidas e utilizar a calculadora de acordo com suas necessidades.
